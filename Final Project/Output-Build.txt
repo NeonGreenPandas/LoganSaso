@@ -1,0 +1,13 @@
+﻿1>------ Build started: Project: Final Project, Configuration: Debug Win32 ------
+1>Build started 8/2/2013 10:17:28 PM.
+1>ClCompile:
+1>  Final Project.cpp
+1>c:\users\logan-gaming\documents\visual studio 2012\projects\final project\final project\final project.cpp(45): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+1>c:\users\logan-gaming\documents\visual studio 2012\projects\final project\final project\final project.cpp(638): warning C4018: '<' : signed/unsigned mismatch
+1>Link:
+1>  Final Project.vcxproj -> C:\Users\Logan-Gaming\Documents\Visual Studio 2012\Projects\Final Project\Debug\Final Project.exe
+1>
+1>Build succeeded.
+1>
+1>Time Elapsed 00:00:01.68
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

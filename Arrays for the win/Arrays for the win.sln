@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Arrays for the win", "Arrays for the win\Arrays for the win.vcxproj", "{F01012F5-0D61-432A-8DDA-A9C8E414ED7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F01012F5-0D61-432A-8DDA-A9C8E414ED7B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F01012F5-0D61-432A-8DDA-A9C8E414ED7B}.Debug|Win32.Build.0 = Debug|Win32
+		{F01012F5-0D61-432A-8DDA-A9C8E414ED7B}.Release|Win32.ActiveCfg = Release|Win32
+		{F01012F5-0D61-432A-8DDA-A9C8E414ED7B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

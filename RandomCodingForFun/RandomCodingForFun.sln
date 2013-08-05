@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RandomCodingForFun", "RandomCodingForFun\RandomCodingForFun.vcxproj", "{26FC77F1-7288-49A1-BCBB-A31CCF4030CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26FC77F1-7288-49A1-BCBB-A31CCF4030CD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{26FC77F1-7288-49A1-BCBB-A31CCF4030CD}.Debug|Win32.Build.0 = Debug|Win32
+		{26FC77F1-7288-49A1-BCBB-A31CCF4030CD}.Release|Win32.ActiveCfg = Release|Win32
+		{26FC77F1-7288-49A1-BCBB-A31CCF4030CD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
